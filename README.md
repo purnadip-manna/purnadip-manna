@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Instant Grocery.
+- 🔭 I’m currently participating in ACM Hackathon.
 - 🌱 I’m currently learning React JS
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
