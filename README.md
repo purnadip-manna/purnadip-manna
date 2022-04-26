@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently participating in ACM Hackathon.
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently working on a MERN stack project (personal)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
