@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently working on a MERN stack project (personal)
+- 🌱 I’m currently learning Django Advanced.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
