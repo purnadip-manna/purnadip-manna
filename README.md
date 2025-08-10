@@ -48,13 +48,6 @@ AI-powered system for analyzing and extracting insights from tender documents.
 
 ---
 
-## 📈 GitHub Stats
-
-![Purnadip's GitHub stats](https://github-readme-stats.vercel.app/api?username=purnadip&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purnadip&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Let's Connect
 
 - LinkedIn: [linkedin.com/in/purnadip](https://www.linkedin.com/in/purnadip-manna/)
