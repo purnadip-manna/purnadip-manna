@@ -2,7 +2,7 @@
 
 💻 **Software Engineer** | 🚀 **Full Stack Developer** | 🧠 **Problem Solver**  
 
-I’m a passionate software engineer with **2 years of professional experience** building scalable and efficient applications.  
+I’m a passionate software engineer with **3 years of professional experience** building scalable and efficient applications.  
 I enjoy crafting impactful solutions using **Java, Spring Boot, Python, FastAPI, React, Angular, PostgreSQL, MongoDB, and AWS**.
 
 ---
